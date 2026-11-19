@@ -1,0 +1,11 @@
+TASIFY — paquete para Vercel
+
+Este paquete tiene index.html en la raíz, junto con app.js, styles.css y assets/.
+Subí el contenido completo de esta carpeta a Vercel. No muevas los archivos ni la carpeta assets/.
+
+El emblema de Tasify está incrustado en index.html. Los logos de entidades se cargan desde assets/logos/.
+
+
+Fórmulas del simulador:
+- Plazo fijo: capital × (1 + (TNA / 100) / 365)^días.
+- Préstamo: interés simple = capital × (TNA / 100) × (meses / 12); el total se reparte en cuotas iguales.
